@@ -1,0 +1,11 @@
+# database
+pg_data/
+
+# env files
+.env
+
+# store files
+.DS_Store
+
+# binary files
+bin/
